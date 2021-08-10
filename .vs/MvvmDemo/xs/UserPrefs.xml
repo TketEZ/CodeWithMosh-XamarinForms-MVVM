@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F27B949D-7206-42CA-999A-B4D17A8909D9}|Default">
+  <MonoDevelop.Ide.ItemProperties.MvvmDemo FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MvvmDemo" expanded="True">
+            <Node name="MvvmDemo" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="PlaylistDetailPage.xaml" expanded="True" />
+                <Node name="PlaylistsPage.xaml" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MvvmDemo.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_r_11_0_-_api_30" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MvvmDemo.iOS FirstBuild="True" />
+</Properties>
